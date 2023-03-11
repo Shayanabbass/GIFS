@@ -1,0 +1,28 @@
+@media(min-width:320px) and (max-width:414px)
+{
+	.banner-image {
+		height: auto;
+	}
+}
+
+@media(min-width:415px) and (max-width:767px)
+{
+}
+
+
+@media(min-width:768px) and (max-width:812px)
+{
+}
+
+@media(min-width:813px) and (max-width:1024px)
+{
+}
+
+@media screen and (max-height:450px)
+{
+
+}
+
+@media(min-width:992px) and (max-width:1282px)
+{
+}
